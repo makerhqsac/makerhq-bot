@@ -1,0 +1,10 @@
+/.bundle
+
+/log
+/tmp
+
+.DS_Store
+.generators
+.idea
+.env
+.rspec
